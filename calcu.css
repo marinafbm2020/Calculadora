@@ -8,7 +8,7 @@ body{
 
 #Calculadora{
    border: ;
-   background-color: rgba(84, 135, 211, 0.397);
+   background-color: #5487d365;
    width: 95%;
    height:90%;
    padding: 10px;
@@ -27,7 +27,13 @@ button{
 }
 
 #Igualdade{
-   
+   position:relative;
+   width:13%;
+   top:18.5;
+   left:80.5;
+   height:70% ;
+   background-color:#5487d365;
+
 }
 
 #Display{
